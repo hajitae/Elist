@@ -16,7 +16,7 @@
 <h2>Dataset Overview</h2>
 
 <p><strong>Time Range:</strong> 2019–2022<br>
-<strong>Core Tables:</strong> Orders, Customers, Products, Refunds</p>
+<strong>Core Tables:</strong> Orders, Customers, Order Status, Geo Lookup, Suppliers</p>
 
 <p><strong>Key Performance Metrics:</strong></p>
 <ul>
