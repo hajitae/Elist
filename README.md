@@ -10,7 +10,7 @@ This analysis aims to:
 
 - Evaluate long-term revenue trends and seasonal volatility  
 - Identify revenue concentration across products  
-- Measure the loyalty program’s impact on customer value  
+- Measure the loyalty program's impact on customer value  
 - Assess refund behavior and potential margin risk  
 - Provide actionable, data-backed business recommendations  
 
@@ -76,7 +76,7 @@ Heavy reliance on Q4 revenue increases **forecasting pressure, inventory exposur
 - **$7.7M revenue contribution**  
 - Consistently the top-selling product across all regions  
 
-AirPods account for a **disproportionate share of total revenue**, making overall performance highly sensitive to this product’s availability, pricing, and competitive positioning.
+AirPods account for a **disproportionate share of total revenue**, making overall performance highly sensitive to this product's availability, pricing, and competitive positioning.
 
 ## Lowest Performing Product
 
@@ -140,19 +140,30 @@ Regional demand patterns are consistent, but there is opportunity to expand high
 
 ## Logistics & Delivery Performance
 
-| Region | Avg. Delivery Time (Days) | Primary Platform |
-|-------|----------------------------|------------------|
-| **NA** | 4.2 | Website |
-| **EMEA** | 5.8 | Mobile App |
-| **LATAM** | 7.1 | Mobile App |
+To evaluate fulfillment efficiency across regions, average delivery time was calculated as the number of days between purchase and delivery.
 
-Regions with higher mobile app usage currently experience longer delivery lead times.
+| Region | Average Delivery Time (Days) | Average Delivery Time (Weeks) |
+|--------|------------------------------|-------------------------------|
+| EMEA | 7.57 | 1.08 |
+| APAC | 7.55 | 1.08 |
+| North America (NA) | 7.48 | 1.07 |
+| LATAM | 7.45 | 1.07 |
 
-**Business Finding:**  
-This suggests potential logistical or distribution inefficiencies in EMEA and LATAM compared to North America’s fulfillment pipeline.
+### Key Findings
 
-**Strategic Consideration:**  
-Reducing delivery time in LATAM by even two days could improve customer satisfaction and reduce churn risk in emerging markets.
+Delivery times are remarkably consistent across all regions, averaging approximately 7.5 days (just over one week) regardless of geography. The maximum difference between regions is less than 0.15 days, indicating minimal regional variance in fulfillment speed.
+
+### Business Interpretation
+
+The consistency in delivery timelines suggests that Elist has achieved a globally standardized fulfillment process, with no single region acting as a significant logistical bottleneck. Unlike sales performance, which varies meaningfully by region, delivery speed does not appear to be a limiting factor for demand.
+
+### Strategic Implications
+
+- Logistics performance is unlikely to be the primary driver of regional demand differences.
+- Since delivery times are already well-aligned across regions, future improvements may yield diminishing returns relative to other investments.
+- Regional performance gaps are more likely attributable to market demand, pricing sensitivity, product mix, or customer acquisition strategies rather than fulfillment inefficiencies.
+
+**Strategic Focus:** Rather than optimizing delivery speed further, Elist may see greater impact by investing in regional marketing, loyalty adoption, and localized product strategies.
 
 ---
 
@@ -186,4 +197,4 @@ Reducing delivery time in LATAM by even two days could improve customer satisfac
 ## Operations
 - Investigate the absence of 2022 refund records  
 - Monitor return patterns for high-volume and high-AOV products  
-- Evaluate logistics performance in EMEA and LATAM to reduce delivery times  
+- Evaluate logistics performance in EMEA and APAC to reduce delivery times
