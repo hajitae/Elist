@@ -19,7 +19,10 @@ This analysis aims to:
 ## Dataset Overview
 
 **Time Range:** 2019–2022  
-**Core Tables:** Orders, Customers, Order Status, Geo Lookup, Suppliers  
+**Core Tables:** Orders, Customers, Order Status, Geo Lookup, Suppliers
+
+### Entity Relationship Diagram (ERD)
+![Elist ERD](images/elist_erd.png)
 
 **Key Performance Metrics:**
 
